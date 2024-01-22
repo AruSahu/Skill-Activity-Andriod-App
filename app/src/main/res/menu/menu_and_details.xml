@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item android:id="@+id/item1"-->
+<!--        android:title="Update"-->
+<!--        app:showAsAction="never" >-->
+<!--        <menu>-->
+
+
+<!--        </menu>-->
+<!--    </item>-->
+    <item android:id="@+id/item1"
+        android:title="Update Image"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item2"
+        android:title="Change Password"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item3"
+        android:title="Help"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item5"
+        android:title="Logout"
+        app:showAsAction="never" />
+    <item android:id="@+id/item6"
+        android:title="Update Phone Number"
+        app:showAsAction="never" />
+</menu>
